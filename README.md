@@ -1,8 +1,6 @@
 # Cross the road. Example for ML-Agents 1.0+ in Unity3D
 AI learns to cross the road with Unity ML-Agents (imitation learning or reinforcement learning).
 
-Video about it - [Youtube](https://youtu.be/8KsjKezUc8w).
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8KsjKezUc8w" target="_blank"><img src="http://img.youtube.com/vi/8KsjKezUc8w/0.jpg" 
 alt="Video about it"/></a>
 
