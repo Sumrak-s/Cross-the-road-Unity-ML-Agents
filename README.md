@@ -6,6 +6,8 @@ Video about it - [Youtube](https://youtu.be/8KsjKezUc8w).
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8KsjKezUc8w" target="_blank"><img src="http://img.youtube.com/vi/8KsjKezUc8w/0.jpg" 
 alt="Video about it" width="240" height="180" border="10" /></a>
 
+[=)](/example.png "Test")
+
 Goal: Cross to the other side of the road without colliding with a car.  
 Agents: The environment contains 30 agents of the same kind, all using the same Behavior Parameters.  
 Agent Reward Function:  
