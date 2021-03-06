@@ -4,7 +4,7 @@ AI learns to cross the road with Unity ML-Agents (imitation learning or reinforc
 Video about it - [Youtube](https://youtu.be/8KsjKezUc8w).
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8KsjKezUc8w" target="_blank"><img src="http://img.youtube.com/vi/8KsjKezUc8w/0.jpg" 
-alt="Video about it" width="320" height="180" border="10" /></a>
+alt="Video about it" width="320" height="180" /></a>
 
 ![=)](/example.png "Test")
 
