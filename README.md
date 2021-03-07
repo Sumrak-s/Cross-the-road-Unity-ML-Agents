@@ -4,6 +4,8 @@ AI learns to cross the road with Unity ML-Agents (imitation learning or reinforc
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8KsjKezUc8w" target="_blank"><img src="http://img.youtube.com/vi/8KsjKezUc8w/0.jpg" 
 alt="Video about it"/></a>
 
+<iframe type="text/html" frameborder="0" width="1280" height="720" src="https://www.youtube.com/embed/8KsjKezUc8w" allowfullscreen></iframe>
+
 ![=)](/example.png "Test")
 
 Goal: Cross to the other side of the road without colliding with a car.  
